@@ -28,16 +28,10 @@ Using the dictionary from Part 1, create a Python script that will expect a URL 
 	- OUTPUT1: Gambling site
 	- OUTPUT2: Non-Gambling site
 
-Submission format
------------------
-There are 4 expected submissions:
-- The URL list generated in Part 1 - 1.
-- The Python script in Part 1 - 2.
-- The dictionary generated from Part 1 - 2.
-- The Python script from Part 2.
 
 The Python scripts must be compatible with Python 3.5 and higher.
 
+## Files of this Repository
 1. The questions_1.py is the solution of questions_1.txt.
 2. The URL_List.txt file is the text file with gambling URLs.
 3. The questions_part1.py is the solution of questions.txt (Part 1).
